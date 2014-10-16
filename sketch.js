@@ -30,4 +30,5 @@ function draw(){
 	}else if(mouseY<600){
 		ellipse(400,300,125,125);
 	}
+}
 
