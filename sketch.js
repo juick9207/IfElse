@@ -31,11 +31,3 @@ function draw(){
 		ellipse(400,300,125,125);
 	}
 
-	if(mouseX<275){
-		background(40);
-	}else if(mouseX<425){
-		background(Math.random()*255);
-	}else if(mouse<800){
-		background(40);
-	}
-}
